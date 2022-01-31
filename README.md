@@ -1,17 +1,17 @@
 # Aula de React
 
-### componentes no React
-1 - Função
-2 - Estrutura
-3 - Interligando
+### Componentes no React
+1. Função
+2. Estrutura
+3. Interligando
 
-### rotas
+### Rotas
 
-### propriedades
+### Propriedades
 
-### states
-
-## Available Scripts
+### States
+<br />
+<br />
 
 In the project directory, you can run:
 
