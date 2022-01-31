@@ -13,8 +13,17 @@
   }
 }
 
+.container {
+  background:black;
+  background:rgba(0,0,0,0.8);
+  -webkit-backdrop-filter: blur(20px);
+  
+  border-radius: 16px;
+  width: 80%;
+}
+
 .App-header {
-  background-color: #282c34;
+  background-image: url("https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711");
   min-height: 100vh;
   display: flex;
   flex-direction: column;
