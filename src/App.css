@@ -45,3 +45,14 @@
     transform: rotate(360deg);
   }
 }
+
+ol {
+  text-align: left;
+  display: flex;
+  gap: 60px;
+  flex-wrap: wrap;
+}
+
+li {
+  margin: 0 8px;
+}
