@@ -1,4 +1,4 @@
-# Aula de React
+# Aula de React <img align="center" alt="Dri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 ### Componentes no React
 1. Função
@@ -6,10 +6,22 @@
 3. Interligando
 
 ### Rotas
+4. Rotas no react
+5. Rotas no react
+6. Rotas no react
+7. Rotas no react
 
 ### Propriedades
+8. Propriedades no react
+9. Propriedades no react
+10. Propriedades no react
 
 ### States
+11. States no react
+12. States no react
+13. States no react
+14. States no react
+
 <br />
 <br />
 
